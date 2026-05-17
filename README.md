@@ -16,7 +16,7 @@ Sou um estudante do 1º semestre de Engenharia de Software, apaixonado por tecno
 
 ## 📄 2. Currículo
 * **Formação Acadêmica:** Bacharelado em Engenharia de Software - CEUB (Fev/2026 - Previsão: 2029)
-* **Idiomas:** Português (Nativo), Inglês (Básico/Intermediário - *ajuste*)
+* **Idiomas:** Português (Nativo), Inglês (Básico/Intermediário )
 * **Hard Skills (Foco de Estudo Atual):** Lógica de Programação, Banco de Dados, Fundamentos de Engenharia de Software.
 * **Soft Skills:** Resolução de problemas, pensamento crítico, vontade de aprender e trabalho em equipe.
 ---
